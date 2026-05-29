@@ -27,8 +27,7 @@ pio.templates["dsc80"] = go.layout.Template(
         margin=dict(l=30, r=30, t=30, b=30),
         autosize=True,
         width=600,
-        height=400,
-        xaxis=dict(showgrid=True),
+         xaxis=dict(showgrid=True),
         yaxis=dict(showgrid=True),
         title=dict(x=0.5, xanchor="center"),
     )
