@@ -1,6 +1,6 @@
 # The Impact Of Explicitness On A Song's Popularity
 
-**By Samuel Yu and William Zhang** · DSC 80 Final Project, UC San Diego
+**By Samuel Yu and William Zhang** · DSC 80 Final Project
 
 Some songs rack up hundreds of millions of streams while others, often just as polished, go nowhere. Is a track's popularity written into the music itself like its energy, its danceability, its mood or does it come down to who released it? This project digs into a catalog of 114,000 Spotify tracks to find out, and ends by building a model that predicts how popular a track will be.
 
