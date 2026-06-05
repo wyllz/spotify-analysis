@@ -1,4 +1,4 @@
-# The Impact Of Explicitness On A Song's Popularity
+# Predicting Spotify Song Popularity
 
 **By Samuel Yu and William Zhang**
 
