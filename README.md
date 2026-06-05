@@ -1,4 +1,4 @@
-# Hit or Miss: What Makes a Spotify Track Popular?
+# The Impact Of Explicitness On A Song's Popularity
 
 **By [your name(s) here]** · DSC 80 Final Project, UC San Diego
 
